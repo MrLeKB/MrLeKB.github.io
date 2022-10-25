@@ -303,7 +303,7 @@ var LDAvis = function(to_select, data_or_file_name, color1, color2) {
         docSectionTitle.id="docSectionTitle"
         var docSectionDiv= document.createElement("div")
         docSectionDiv.id="docSection"
-        docSectionDiv.style.width="75%"
+        docSectionDiv.style.width="100%"
         document.getElementById(visID).append(docSectionTitle)
         document.getElementById(visID).append(docSectionDiv)
 
