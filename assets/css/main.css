@@ -3042,11 +3042,11 @@ input, select, textarea {
 	.container-type1 b{
 		font-weight: 500;
 		}
-
 	#nav-container{
 		display: grid;
 		grid-template-columns: 1fr 1fr 1fr;
-		margin: 1em 5em;
+		margin: 1em auto;
+		width: 80%;
 	}
 	#logo{
 		text-align: left;
